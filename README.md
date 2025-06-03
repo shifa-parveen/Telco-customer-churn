@@ -14,7 +14,7 @@ Excel | SQL | Python | Power BI
 
 ## 📂 Project Structure  
 
-- /data — Contains raw and cleaned datasets used for analysis  
-- /notebooks — Python notebooks for exploratory data analysis and modeling  
-- /SQL — SQL scripts used for querying and preparing data  
-- /powerbi — Power BI dashboard project showing interactive visualizations  
+- `/data` — Contains raw and cleaned datasets used for analysis  
+- `/notebooks` — Python notebooks for exploratory data analysis and modeling  
+- `/SQL` — SQL scripts used for querying and preparing data  
+- `/powerbi` — Power BI dashboard project showing interactive visualizations  
