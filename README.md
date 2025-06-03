@@ -1,4 +1,5 @@
 📉 Telco Customer Churn Analysis
+
 Analyze why customers are leaving a telecom service using Excel, SQL, Python, and Power BI. This project uncovers churn patterns, visualizes key metrics, and helps drive business decisions.
 
 🔧 Tools Used
